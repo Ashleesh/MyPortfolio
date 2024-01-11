@@ -1,0 +1,24 @@
+.main {
+    background-image: url(https://media.istockphoto.com/id/1365996071/vector/abstract-black-background-geometric-texture.jpg?s=612x612&w=0&k=20&c=v-F0ZDbPIMT0hNkFWBCaRHBCfUFTqtAzBaGiFTzqPyE=);
+    display: flex;
+    align-items: center;
+}
+
+.main h1 {
+    margin-right: auto;
+}
+
+.main h1 {
+    margin-left: 40px;
+    color: rgb(255, 255, 255);
+}
+
+.hello {
+    margin-right: 30px;
+    align-items: center;
+}
+
+.me {
+    text-align: center;
+    background-image: url(https://img.freepik.com/premium-photo/geometric-seamless-patterns-abstract-modern-line-ornament-textures-design-print-package-decor_789279-6643.jpg?size=626&ext=jpg&ga=GA1.1.1412446893.1704844800&semt=ais);
+}
